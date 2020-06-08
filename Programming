@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Challenge: Java programming classes"</title>
+        <style>
+       
+    </style>
+
+    </head>
+    <body>
+    
+    <h1> Java Programming 
+    <p>
+ 
+
+</p>
+   </h1>
+   <p>
+   1. var x = 
+ Makes a value for a variable <br>
+
+2. x += 4;
+Increases value to 4 <br>
+
+
+3. for(var x =4; x is greater then 7; x++ ){       }
+The max variable x can be is 7 <br>
+
+4.
+if( x == 0 ) {                         }
+
+else {                                }
+
+This is an if statement and when x = 0 then it does something different then if x is something else <br>
+5. 
+ellipse( ____, ___, ____, ___)
+
+You can make a circle or oval by choosing where it is located on the x and y axis. Also by changing the size with the width and height. <br>
+6. rect( ____, ____, ____, ____)
+
+You can make a square or rectangle choosing where they are located with the x and y axis and how large they’ll be by changing its height and width. <br>
+7. stroke ( ___, ___, ___)
+
+fill ( ___, ___, ___)
+
+The color of texts and the outline of text <br>
+8. mouseX
+
+mouseY
+
+If you move your mouse with these functions you can make movement in code. <br>
+9. draw=function(){              }
+
+Can set the color and make shapes in this code as a function.
+
+
+   </p>
+   <h2>
+       
+       Hardware
+   </h2>
+   <p>
+   
+1. Computer: A computer is an electronic device for storing and processing data. <br>
+2. Inputs: A device that is put into the computer or puts something on the computer. <br>
+3. Outputs: Something that sends data out of the computer. <br>
+
+4. Motherboard: It holds, and allows communication between, many of the electronic components of a system, such as the central processing unit and memory, and provides connectors for other peripherals.<br>
+5. CPU: CPU is the brains of the computer where most calculations take place. <br>
+6. RAM: RAM is also called Random Access Memory, is the memory or information storage in a computer that is used to store running programs and data for the programs. <br>
+7. Power Supply: The function of a power supply is to convert electric current from a source to the correct voltage.  <br>
+8. Hard Disk Drive: the hard drive reads and writes data to the disk. The hard drive also transmits data back and forth between the CPU and the disk. <br> 
+9. Solid State Drive: It supports reading and writing data and maintains stored data, SSDs, however, are faster, lighter, more durable, and use less energy compared to the HDD.
+
+   </p>
+   <h3>
+       Analog and Digital Data
+   </h3>
+   <p>
+   Analog: Analog data is data that is represented in a physical way or is stored in physical media. Data is lost gradually. <br>                                               
+   Digital: is information stored on a computer system as a series of 0's and 1's in a binary language. A small portion of the data is lost. <br>
+   Encoded: analog signals are encoded by Amplitude Modulation, Frequency Modulation and Phase Modulation <br> 
+   Encoded: It uses 0’s and 1’s to use the data. <br>
+   Analog transmission is a method conveying information using a continuous signal which varies in amplitude.<br>
+   Digital Data is transferred in the form of bits between two or more digital devices.
+
+   </p>
+   <h4>
+       Binary and Algorithms
+   </h4>
+   <p> 
+   Binary: Uses 1’s and 0’s only for numbers, the system used in computers. <br>
+   Decimal: Uses 0-9, the number system we use mainly <br>
+   Algorithm: to find what each number means in binary and decimal <br>
+   Rules for Adding in Binary:
+
+You start with zero and then add one, ex.
+
+0 = 0 
+1 = 1
+10 = 2
+11 = 3
+100 = 4
+101 = 5
+110 = 6 <br>
+
+   </p>
+   <h5>
+       The Web and HTML
+   </h5>
+   <p>
+   HTML: It is markup language to show this document is going to be a website. <br>
+   CSS: is where you type up the code <br>
+   style>
+
+You can add set colors to sections. 
+<br>
+h1 and h6
+Different sections to add things possible different paragraphs or photos. 
+<br>
+strong uand emp:
+To bold and emphasize your text. <br>
+Storyboard: where you can see what you made in code<br>
+OSI Model It is the model to explain the steps of sharing data <br>
+div
+It divides a section in your code
+<br>
+
+   </p>
+   <h6>
+       OSI Model Stages
+   </h6>
+   <p> </p>
+   
+physical:
+Electromagnetic wave that carry the data <br>
+
+Data link:
+Your MAC address (prevents data collision); 16 digit hexadecimal code lanes the data travels through <br>
+
+network:
+Plans the route for data to travel; gives its IP (Internet Protocol) address prevent data collision/loss <br>
+
+transportation:
+Responsible for destroying viruses and blocks bad files; firewall <br>
+
+session:
+Writes down name and contents of packages; like a history; List of all files sent <br>
+
+presentation:
+Encrypts byte packages <br>
+
+application:
+Splits data into byte packages 
+
+
+
+
+
+
+
+   </body>
+</html>
