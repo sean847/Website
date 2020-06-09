@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Website Final Project"</title>
+    </head>
+    
+    <style> 
+        body {background-color: cyan;
+        }
+    </style>
+    
+    <body>
+    
+    
+    
+        <h1> Sean Driscoll's Final Project</h1>
+        
+        <p>  <img src="https://sean847.github.io/Website/E338E5B0-6765-4670-B234-D74795DD19B0.jpeg" width="300"> <br>
+        In this project I have my resume and another website. I have four of my favorite Khan<br> Academy assignments. It includes my work on "End of the Year Vocab" sheet and final<br> a game I made. 
+            
+        </p>
+    
+        <p>
+       
+        <a href="https://sean847.github.io/Website/MyResume.html"> My Resume</a> <br>
+        <a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6243014299369472"> First Khan Academy Assignment </a> <br>
+        <a href="https://www.khanacademy.org/computer-programming/spin-off-of-challenge-flashy-flash-card/5910668137218048"> Second Khan Academy Assignment </a> <br>
+        <a href="https://www.khanacademy.org/computer-programming/spin-off-of-challenge-your-first-button/5475993339904000"> Third Khan Academy Assignment</a> <br>
+        <a href="https://www.khanacademy.org/computer-programming/spin-off-of-challenge-bouncy-ball/4962228430454784"> Fourth Khan Academy Assignment</a> <br>
+        <a href="https://sean847.github.io/Website/Java.html"> End of the Year Vocab </a> <br>
+        <a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4641410572697600"> Game</a>
+           
+        </p>
+        
+    </body>
+</html>
